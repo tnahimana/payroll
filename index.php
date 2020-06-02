@@ -10,7 +10,7 @@
     &nbsp;&nbsp;&nbsp; &nbsp;<a href="about.php">About </a> <font> </br></h2>
 <p> <font color= "white"> <font size ="16"> <marquee direction ="down"> welcome to website of school salary management system 
 </marquee> </font> </p> 
-<h1 align="center"><img src="logo2.JPG"width="1200"height="500"></h1>
+<h1 align="center"><img src="money.jpg"width="1200"height="500"></h1>
 <br/> 
 <P>
 my website it help some employees to know how the salary will be calculated if someone have loan on school then
